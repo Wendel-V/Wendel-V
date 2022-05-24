@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!</h1>
-![giphy](https://user-images.githubusercontent.com/77294865/170144724-bee6447c-c5e0-451f-b555-2850be425e95.gif)
+![Alt Text](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=790b7611fa581bb91a0da789c0ff3574acd0b3994d36db1c&rid=giphy.gif&ct=g)
 
 <p>My name is Wendel, I work with technology and I'm interest in some things like:</p>
 
@@ -9,7 +9,7 @@
   <li>Python</li>
   <li>Post here every single line that I write</li>
   <li>Coding just for fun</li>
-  <li>Explain to everyone that <b><h3>Han shot first!<h3></b></li>
+  <li>Explain to everyone that <b>Han shot first!</b></li>
 </ul>
 
 <hr>
