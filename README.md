@@ -1,15 +1,15 @@
-<h1 align="center">Hello there!</h1>
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/xTiIzJSKB4l7xTouE8)" width="40" height="40" />
-<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
+<h1 align="left">Hello there!</h1>
+<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=790b7611fa581bb91a0da789c0ff3574acd0b3994d36db1c&rid=giphy.gif&ct=g" width="500" height="200" />
+
 <p>My name is Wendel, I work with technology and I'm interest in some things like:</p>
 
 <ul>
-  <li>Data Science</li>
-  <li>Machine Learning</li>
-  <li>Python</li>
-  <li>Post here every single line that I write</li>
-  <li>Coding just for fun</li>
-  <li>Explain to everyone that <b>Han shot first!</b></li>
+  <li>Data Science 📊🧪🧑🏻‍🔬</li>
+  <li>Machine Learning 🤖🧑🏻‍🎓</li>
+  <li>Python 🐍</li>
+  <li>Post here every single line that I write 👨🏻‍💻👨🏻‍💻👨🏻‍💻☕</li>
+  <li>Coding just for fun 💻😜</li>
+  <li>Explain to everyone that <b>Han shot first!</b> 🔫</li>
 </ul>
 
 <hr>
