@@ -17,7 +17,7 @@
 <p>I <strong>love</strong> nerding out about creative coding, train some AI models and see how data is beautiful, so don't hesitate to reach out!</p>
 
 
-
+ ![Snake animation](https://github.com/Wendel-V/Wendel-V/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Wendel-V/Wendel-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
