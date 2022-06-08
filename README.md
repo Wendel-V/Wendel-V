@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=790b7611fa581bb91a0da789c0ff3574acd0b3994d36db1c&rid=giphy.gif&ct=g" align="center"  width="500" height="200" />
  
-## Hello There! My name is Wendel! Love data science stuff and coding for fun!
+## Hello There! My name is Wendel! I Love data science stuff and coding for fun!
  </div>
 
 
